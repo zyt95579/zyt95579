@@ -1,6 +1,6 @@
 # Yaoteng Zhang 👋
 
-I am an AI Researcher / Developer focusing on **Computer Vision** and **Continual Learning**.
+I am currently pursuing the Ph.D. degree with the School of Computer Science, Northwestern Polytechnical University, Xi'an, China. 
 
 ## 🔬 Research Interests
 - **Continual / Incremental Learning** (Class-Incremental Learning, Few-Shot CIL)
