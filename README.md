@@ -10,22 +10,10 @@ I am an AI Researcher / Developer focusing on **Computer Vision** and **Continua
 ## 📢 Recent News
 - **[2026.03]** Our paper *"Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection"* was released! The code is officially open-sourced. 🎉
 
-## 📝 Selected Publications & Projects
+## 🚀 Projects & Publications
 
-### 🌟 Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (PDP)
-A novel dual-pool prompt decoupling paradigm that achieves SOTA performance on MS-COCO (+9.2% AP) and PASCAL VOC (+3.3% AP) benchmarks by balancing stability and plasticity.
-- [[Paper](https://arxiv.org/abs/2603.02286)] [[Code](https://github.com/zyt95579/PDP_IOD)]
+🚀 **PDP_IOD** (Dual-pool Prompting) CVPR'26 [[Paper](https://arxiv.org/abs/2603.02286)][[Code](https://github.com/zyt95579/PDP_IOD)] 
 
-*(Tip: 在这里继续添加你的其他重要工作，例如 Rethinking Query-Based Transformer 相关的代码库或论文链接)*
-
-## 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
 
 ## 📊 GitHub Analytics
 <p align="left">
@@ -35,6 +23,6 @@ A novel dual-pool prompt decoupling paradigm that achieves SOTA performance on M
 
 ## 📫 Let's Connect!
 - 📧 Email: zhang_yt@mail.nwpu.edu.cn
-- 🎓 Google Scholar: [你的学术主页链接]
+- 🎓 Google Scholar: [[你的学术主页链接]](https://scholar.google.com/citations?user=oX0Sv1YAAAAJ&hl=en&oi=sra)
 
 
