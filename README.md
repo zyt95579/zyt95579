@@ -1,11 +1,11 @@
-# Hi there, I'm [你的真实姓名/昵称] 👋
+# Yaoteng Zhang 👋
 
-I am an AI Researcher / Developer focusing on **Computer Vision** and **Continual Learning**. I am passionate about making models learn continuously without forgetting! 🚀
+I am an AI Researcher / Developer focusing on **Computer Vision** and **Continual Learning**.
 
 ## 🔬 Research Interests
 - **Continual / Incremental Learning** (Class-Incremental Learning, Few-Shot CIL)
 - **Object Detection & Semantic Segmentation**
-- **Prompt Engineering & Vision-Language Models**
+- **Remote Sensing & Vision-Language Models**
 
 ## 📢 Recent News
 - **[2026.03]** Our paper *"Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection"* was released! The code is officially open-sourced. 🎉
@@ -34,9 +34,7 @@ A novel dual-pool prompt decoupling paradigm that achieves SOTA performance on M
 </p>
 
 ## 📫 Let's Connect!
-- 📧 Email: [你的邮箱地址]
+- 📧 Email: zhang_yt@mail.nwpu.edu.cn
 - 🎓 Google Scholar: [你的学术主页链接]
-- 🌐 Personal Website: [如果有个人主页可以放这里]
 
----
-⭐️ From [zyt95579](https://github.com/zyt95579)
+
