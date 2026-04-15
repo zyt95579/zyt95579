@@ -12,7 +12,7 @@ I am an AI Researcher / Developer focusing on **Computer Vision** and **Continua
 
 ## 🚀 Projects & Publications
 
-🚀 **PDP_IOD** (Dual-pool Prompting) CVPR'26 [[Paper](https://arxiv.org/abs/2603.02286)][[Code](https://github.com/zyt95579/PDP_IOD)] 
+🚀 **PDP-IOD** (Dual-pool Prompting) CVPR'26 [[Paper](https://arxiv.org/abs/2603.02286)][[Code](https://github.com/zyt95579/PDP_IOD)] 
 
 
 ## 📊 GitHub Analytics
@@ -21,8 +21,8 @@ I am an AI Researcher / Developer focusing on **Computer Vision** and **Continua
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyt95579&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
-## 📫 Let's Connect!
+## 📫 Connect
 - 📧 Email: zhang_yt@mail.nwpu.edu.cn
-- 🎓 Google Scholar: [[你的学术主页链接]](https://scholar.google.com/citations?user=oX0Sv1YAAAAJ&hl=en&oi=sra)
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=oX0Sv1YAAAAJ&hl=en&oi=sra
 
 
