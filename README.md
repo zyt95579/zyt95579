@@ -13,7 +13,8 @@ I am currently pursuing the Ph.D. degree with the School of Computer Science, No
 ## 🚀 Projects & Publications
 
 🚀 **PDP-IOD** (Dual-pool Prompting) CVPR'26 [[Paper](https://arxiv.org/abs/2603.02286)][[Code](https://github.com/zyt95579/PDP_IOD)] 
-
+🚀 **PolyBuild** JSTARS'25 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988661)]
+🚀 **Algae-Mamba** JSTARS'25 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11007460)]
 
 ## 📊 GitHub Analytics
 <p align="left">
