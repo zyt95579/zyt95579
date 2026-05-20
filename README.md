@@ -8,9 +8,11 @@ I am currently pursuing the Ph.D. degree with the School of Computer Science, No
 - **Remote Sensing & Vision-Language Models**
 
 ## 📢 Recent News
+- **[2026.05]** Our paper *"STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection"* was accepted by ISPRS Journal of Photogrammetry and Remote Sensing! The code is officially open-sourced. 🎉
 - **[2026.03]** Our paper *"Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection"* was released! The code is officially open-sourced. 🎉
 
 ## 🚀 Projects & Publications
+🚀 **STAR-IOD** (Scale-decoupled Topology Alignment with Pseudo-label Refinement) ISPRS'26
 
 🚀 **PDP-IOD** (Dual-pool Prompting) CVPR'26 [[Paper](https://arxiv.org/abs/2603.02286)][[Code](https://github.com/zyt95579/PDP_IOD)] 
 
