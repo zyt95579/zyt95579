@@ -21,9 +21,10 @@ I am currently pursuing the Ph.D. degree with the School of Computer Science, No
 🚀 **Algae-Mamba** JSTARS'25 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11007460)]
 
 ## 📊 GitHub Analytics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyt95579&show_icons=true&theme=radical&hide_border=true" alt="zyt95579's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyt95579&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zyt95579&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zyt95579&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ## 📫 Connect
