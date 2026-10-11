@@ -19,7 +19,7 @@ My research focuses on **continual and incremental learning**, **object detectio
 </td>
 <td width="24%" align="right" valign="top">
 
-<img src="https://avatars.githubusercontent.com/u/143068302?v=4" width="170" alt="Yaoteng Zhang" />
+<img src="./assets/profile.jpg" width="170" alt="Yaoteng Zhang" />
 
 </td>
 </tr>
@@ -29,7 +29,7 @@ My research focuses on **continual and incremental learning**, **object detectio
 
 - **May 2026** · STAR-IOD was accepted by *ISPRS Journal of Photogrammetry and Remote Sensing*. [Paper](https://arxiv.org/pdf/2605.20738) · [Code](https://github.com/zyt95579/STAR-IOD)
 - **Mar. 2026** · PDP-IOD was accepted to **CVPR 2026**. [Paper](https://arxiv.org/abs/2603.02286) · [Code](https://github.com/zyt95579/PDP_IOD)
-- **2025** · PolyBuild and Algae-Mamba were published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.
+- **2025** · PolyBuild was published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.
 
 ## Publications
 
@@ -68,7 +68,7 @@ A dual-pool prompt framework separates shared and task-specific knowledge, with 
 </tr>
 <tr>
 <td width="27%" valign="middle" align="center">
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988661"><img src="./assets/polybuild.svg" width="100%" alt="PolyBuild illustration" /></a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988661"><img src="./assets/polybuild-figure.png" width="100%" alt="PolyBuild paper framework" /></a>
 </td>
 <td valign="middle">
 
@@ -78,21 +78,6 @@ A dual-pool prompt framework separates shared and task-specific knowledge, with 
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988661)
 
 An end-to-end method for extracting polygonal building contours from high-resolution remote-sensing images.
-
-</td>
-</tr>
-<tr>
-<td width="27%" valign="middle" align="center">
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11007460"><img src="./assets/algae-mamba.svg" width="100%" alt="Algae-Mamba illustration" /></a>
-</td>
-<td valign="middle">
-
-**Algae-Mamba: A Spatially Variable Mamba for Algae Extraction From Remote Sensing Images**<br>
-<u>Yaoteng Zhang</u>, Shuaipeng Wang, Yanlong Chen, Shiqing Wei, Mingming Xu, Shanwei Liu<br>
-*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025<br>
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11007460) / [Code](https://github.com/zyt95579/Algae-Mamba)
-
-A spatially adaptive visual state-space network for extracting ulva and sargassum from remote-sensing images.
 
 </td>
 </tr>
