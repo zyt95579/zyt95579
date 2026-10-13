@@ -43,7 +43,7 @@ Selected papers. **My name is underlined.** For the complete and current list, p
 <td valign="middle">
 
 **STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection**<br>
-<u>Yaoteng Zhang</u>, Qing Zhou, Junyu Gao, Qi Wang<br>
+<ins><strong>Yaoteng Zhang</strong></ins>, Qing Zhou, Junyu Gao, Qi Wang<br>
 *ISPRS Journal of Photogrammetry and Remote Sensing*, 2026<br>
 [Paper](https://arxiv.org/pdf/2605.20738) / [Code](https://github.com/zyt95579/STAR-IOD) / [Dataset](https://github.com/zyt95579/STAR-IOD)
 
@@ -58,7 +58,7 @@ Scale-decoupled topology distillation and clustering-driven pseudo labels help r
 <td valign="middle">
 
 **Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection**<br>
-<u>Yaoteng Zhang</u>, Zhou Qing, Junyu Gao, Qi Wang<br>
+<ins><strong>Yaoteng Zhang</strong></ins>, Zhou Qing, Junyu Gao, Qi Wang<br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026<br>
 [Paper](https://arxiv.org/abs/2603.02286) / [Code](https://github.com/zyt95579/PDP_IOD)
 
@@ -73,7 +73,7 @@ A dual-pool prompt framework separates shared and task-specific knowledge, with 
 <td valign="middle">
 
 **PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction From High-Resolution Remote Sensing Images**<br>
-<u>Yaoteng Zhang</u>, Julin Zhang, Guangshuai Wang, Jiwei Deng, Hui Sheng, Yasir Muhammad, Shiqing Wei<br>
+<ins><strong>Yaoteng Zhang</strong></ins>, Julin Zhang, Guangshuai Wang, Jiwei Deng, Hui Sheng, Yasir Muhammad, Shiqing Wei<br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988661)
 
